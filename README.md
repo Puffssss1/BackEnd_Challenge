@@ -1,2 +1,10 @@
-# BackEnd_Challenge
- This is the Backend Challenge for The BLOKC's internship, it is a backend api where it gets the balance and nft info of a user's ETH wallet address
+Cd to api
+
+node index.js
+
+to check your balance
+http://localhost:3000/balance/{your wallet address}
+
+to check your NFT 
+http://localhost:3000/nft/{your wallet address}
+
